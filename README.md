@@ -1,31 +1,39 @@
-# Hi there, I'm Nick 👋  
+# 👋 Hey, I’m Nick  
 
-🎓 Computer Science student focusing on **Artificial Intelligence**  
-💡 Passionate about building projects that blend **tech + creativity**  
-🏋️‍♂️ Gym rat & explorer of self-discipline  
-🏀 Basketball on the side (yes, I shoot bricks sometimes)  
-
----
-
-### 🚀 Current Projects
-- 📱 **BINUS Learning** – a mobile app for students to share and access educational content  
-- 🧠 Research on **NLP models** (CNN vs SVM for Fake News Detection)  
-- ⚙️ Exploring **scoliosis detection with AI**  
+🎓 Second-year Computer Science student @ BINUS University  
+🧠 Passionate about AI, NLP, and building data-driven projects  
+🏀 Casual hooper, 🎶 music junkie, 🏋️‍♂️ gym enjoyer  
 
 ---
 
-### 🛠 Tech Stack
-- **Languages**: Python, Java, Lua (Roblox), SQL  
-- **AI/ML**: TensorFlow, scikit-learn, FastText  
-- **Other**: Git, VS Code, Database Normalization wizardry 🧙  
+## 🚀 What I’m Up To  
+- 📱 **BINUS Learning** – mobile app for student-created learning materials  
+- 📰 **Fake News Detection** – CNN vs. SVM with FastText embeddings  
+- 🩻 **Medical AI** – scoliosis detection from X-ray data  
+- 🌱 Currently diving deeper into **AI/ML + Full Stack Development**  
 
 ---
 
-### 📈 GitHub Stats
-![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicksens&show_icons=true&theme=tokyonight)
+## 🔗 Connect with Me  
+🌐 [Portfolio](https://hernicksen.vercel.app)  
+💼 [LinkedIn](https://www.linkedin.com/in/hernicksen-satria-658514172/)  
+💻 [GitHub](https://github.com/nicksens)  
 
 ---
 
-### 🤝 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com) *(add your real link later)*  
-- 📝 [Portfolio / Blog](#) *(coming soon?)*  
+## 🛠 Tech & Tools  
+**Languages:** Python, Java, SQL, Lua (Roblox), Markdown  
+**AI/ML:** TensorFlow, scikit-learn, Pandas, NumPy, FastText, Matplotlib  
+**Web:** HTML, CSS, Bootstrap, Node.js (learning full stack)  
+**Other:** Git, VS Code, Canva, Figma  
+
+---
+
+## 📊 GitHub Stats  
+![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicksens&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicksens&layout=compact&theme=radical)  
+
+---
+
+## 💭 Quote  
+*"The man who moves a mountain begins by carrying away small stones."* – Confucius  
