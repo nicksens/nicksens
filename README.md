@@ -19,7 +19,6 @@
 🎓 **Computer Science Student** at BINUS University (GPA: 3.81) specializing in **Intelligent Systems**  
 🤖 **BINUS Scholarship Mentor** teaching CS fundamentals and problem-solving  
 📊 **Data-driven developer** with proven track record in AI automation and full-stack development  
-🌟 **X-Culture Best Presenter Team** member with international collaboration experience  
 
 **Current Focus:** Exploring the intersection of AI, data analysis, and automation to solve real-world problems
 
