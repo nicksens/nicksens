@@ -1,7 +1,20 @@
 <div align="center">
 
-# Hello, I'm **Hernicksen Satria** 👋
+# Hello, I'm **Hernicksen Satria** �<p align="center">
+  <span style="font-size: 48px; display: inline-block; animation: wave 1s infinite;">
+    👋
+  </span>
+</p>
 
+<style>
+@keyframes wave {
+  0% { transform: rotate(0deg); }
+  25% { transform: rotate(15deg); }
+  50% { transform: rotate(0deg); }
+  75% { transform: rotate(-15deg); }
+  100% { transform: rotate(0deg); }
+}
+</style>
 ### AI & Intelligent Systems Specialist | Computer Science Student @ BINUS University
 
 *Building intelligent automation systems that deliver measurable impact*
